@@ -1,3 +1,7 @@
+﻿---
+title: matlab实时脚本
+category: 未分类
+---
 后缀名.mlx(jupter notebook)
 创建：新建-实时脚本
 CTRL+E

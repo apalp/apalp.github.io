@@ -1,3 +1,7 @@
+﻿---
+title: github个人网站搭建
+category: 未分类
+---
 **GitHub Pages + 手动写 HTML 文件**，不需要装任何工具，直接在浏览器里操作就行。
 
 ---

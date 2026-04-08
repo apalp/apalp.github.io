@@ -1,3 +1,7 @@
+﻿---
+title: matlab as calculation
+category: 未分类
+---
 #台大郭彦甫
 current folder ； workspace；layout-command history
 命令窗口

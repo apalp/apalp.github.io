@@ -1,3 +1,7 @@
+﻿---
+title: 蒙特卡洛模拟 Monte Carlo Smulation
+category: 未分类
+---
 1940s 计算机+概率统计（随机数）
 冯诺依曼和乌拉姆共同提出 原子弹项目：中子撞击原子后中子的传播路径。
 monte carlo 摩洛哥的一个赌场
