@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "{{date}},{{time}}": "date",
+    "日期": "date"
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "8290efec1dba3898",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ee5412cabbb7438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8e0f6e86adfc60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端反调试代码.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前端反调试代码"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34621f84bad428aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b1a8bcb67d8e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "385ff5bbdbf5c5f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e345e2737b942718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dc37e43d293dcb89",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b67c63fe80f81ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d9f649bd37b2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d3189a51e26ad1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "matlab as calculation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "matlab as calculation 的反向链接列表"
+            }
+          },
+          {
+            "id": "0c02f1567e5aa667",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "matlab as calculation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "matlab as calculation 的出链列表"
+            }
+          },
+          {
+            "id": "8efa060c9660608f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f56dde78a4ae9183",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "杨辉三角.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "杨辉三角 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "8c8e0f6e86adfc60",
+  "lastOpenFiles": [
+    "index.html",
+    "README.md",
+    "Pasted image 20260409000327.png",
+    "Pasted image 20260408234538.png",
+    "Pasted image 20260408230537.png",
+    "Pasted image 20260408224647.png",
+    "Pasted image 20260408223603.png",
+    "Pasted image 20260408210838.png",
+    "Pasted image 20260408210427.png",
+    "Pasted image 20260408210145.png",
+    "Pasted image 20260408210018.png",
+    "Pasted image 20260408205732.png",
+    "前端反调试代码.md",
+    "差分进化算法的改进遗传算法.md",
+    "层次分析法.md",
+    "常见数学运算函数.md",
+    "抽屉原理.md",
+    "github个人网站搭建.md",
+    "学会提问.md",
+    "hash.md",
+    "github.md",
+    "静态网站  动态网站  静态网关  动态网关 访问网站的完整流程  URL 的结构.md",
+    "leecode.md",
+    "未命名.base",
+    "数据结构.md",
+    "矩阵元素的引用.md",
+    "矩阵的秩.md",
+    "矩阵的知识.md",
+    "列联表与卡方检验.md",
+    "拷贝构造函数.md",
+    "矩阵的创建方法.md",
+    "矩阵的除法.md",
+    "矩阵的乘法.md",
+    "滑动窗口相关性模型.md",
+    "互联网是如何工作的.md",
+    "感知器神经网络.md",
+    "分类神经网络模型.md",
+    "未命名 1.base",
+    "未命名.canvas"
+  ]
+}
